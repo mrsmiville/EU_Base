@@ -240,10 +240,14 @@ def main():
     # Merge original and scraped emails
     def merge_emails(row):
         emails = set()
-        if row['email'] and row['email'] != 'N/A':
-            emails.add(row['email'])
-        if row['scraped_emails']:
-            emails.update(row['scraped_emails'].split(', '))
+        # Handle original email
+        if pd.notna(row['email']) and row['email'] and row['email'] != 'N/A':
+            emails.add(str(row['email']))
+        # Handle scraped emails
+        if pd.notna(row['scraped_emails']) and row['scraped_emails']:
+            for email in row['scraped_emails'].split(', '):
+                if email:
+                    emails.add(email)
         return ', '.join(sorted(emails))
 
     df['all_emails'] = df.apply(merge_emails, axis=1)
