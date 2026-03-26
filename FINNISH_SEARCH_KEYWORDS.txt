@@ -1,0 +1,58 @@
+Google Search Keywords for Finnish Fence Companies
+====================================================
+
+Search these in Google and extract company websites + emails manually:
+
+1. "aita yritys Suomi" (fence company Finland)
+2. "aidat myynti Finland" (fences sales Finland)
+3. "verkkoaita Helsinki" (wire fence Helsinki)
+4. "puuaita Tampere" (wooden fence Tampere)
+5. "metalliportti Turku" (metal gate Turku)
+6. "aitaus palvelu" (fencing service)
+7. "rakennusaita vuokraus" (construction fence rental)
+8. "betoniaita myynti" (concrete fence sales)
+9. "sähköaita myyjä" (electric fence seller)
+10. "aitaelementit yritys" (fence elements company)
+
+Finnish Business Directories (Free):
+====================================
+
+1. Finder.fi - https://www.finder.fi/
+   - Search: "aita", "aidat", "aitaus"
+
+2. Fonecta.fi - https://www.fonecta.fi/
+   - Search: "aita", "portti"
+
+3. Yellow Pages Finland - https://www.findagrave.fi/
+   - Construction/Building materials section
+
+4. Kauppalehti - https://www.kauppalehti.fi/
+   - Business directory
+
+5. Taloyhtiot.fi - https://www.taloyhtiot.fi/
+   - Property management companies (often need fences)
+
+Major Finnish Fence Companies to Check:
+=======================================
+
+1. Betafence Finland
+2. AM-Rautatarha
+3. Aitaelementti Oy
+4. Puuaita-Shop
+5. Aitamaailma
+6. Rakennusaita.fi
+
+Manual Process:
+==============
+
+1. Search each keyword in Google
+2. Visit company websites
+3. Look for contact/yhteystiedot page
+4. Copy: company name, website, email
+5. Add to your CSV file
+
+Expected Results:
+================
+
+Each keyword should give you 10-20 real companies
+Total: 100-200 additional Finnish fence companies
